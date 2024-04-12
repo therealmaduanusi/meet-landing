@@ -64,7 +64,7 @@ Enjoy exploring Meet!
 
 ## Design 
 
-**desktop**
+**Desktop**
 ![Desktop](/images/Desktop.jpg) 
 **Desktop Active**
 ![Desktop-Active](/images/Desktop-Active.png)
