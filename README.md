@@ -64,8 +64,7 @@ Enjoy exploring Meet!
 
 ## Design 
 
-![desktop](/images/Desktop.jpg)
-![Desktop-Active](/images/Desktop-Active.png)
+![desktop](/images/Desktop.jpg) ![Desktop-Active](/images/Desktop-Active.png)
 ![Tablet](/images/Tablet.jpg)
 ![Mobile](/images/Mobile.jpg)
 
