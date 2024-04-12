@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
 /* ROOT COLOR */
 :root {
     --bg-color: #FAFAFA;
@@ -17,6 +18,7 @@
 /* GROUP STYLE */
 body{
     background-color: var(--bg-color);
+    font-family: "Red Hat Display", sans-serif;
 }
 .primary-color {
     text-decoration: none;
@@ -66,7 +68,8 @@ header > .people{
     margin-bottom: 1rem;
 }
 .text > p{
-    margin-bottom: 2rem;
+    margin: 0 auto 2rem auto;
+    max-width: 450px;
 }
 
 header > .nextbar{
@@ -129,7 +132,12 @@ footer > .footer-content{
     align-self: center;
     justify-self: center;
 }
-
+.footer-content > h2{
+    max-width: 250px;
+}
+.footer-content > p{
+    max-width: 300px;
+}
 /* MEDIA QUERY */
 @media (max-width:768px) {
     header > .people{
